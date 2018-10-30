@@ -17,4 +17,5 @@ O Hacktoberfest tem como finalidade incentivar contribuições para o ecossistem
 ```
 Saulo Alexandre - DinoSaulo
 Gabriel Fonseca de Sá Cavalcanti de Albuquerque - gfsca
+Arthur Henrique Tavares Lyra Costa - ahtlc
 ```
